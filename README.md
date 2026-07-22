@@ -31,11 +31,11 @@ Seven board revisions capture the full evolution:
 
 | Version | Notes |
 |:--|:--|
-| `Pill_dispenser` (V2) | Early schematic + PCB |
-| `Pill_Dispenser_1.0` (V4) | First wired revision |
-| `V3` – `V5` | Layout refinement, routing, DRC cleanup |
-| `V4` | **Full Gerber + drill set exported** (fab package) |
-| `V6` – `V7` | Latest revisions |
+| `Pill_dispenser` | V2 — early schematic + PCB |
+| `Pill_Dispenser_V3` | routing & layout refinement |
+| `Pill_Dispenser_1.0` / `V4` | wired revision + **full Gerber & drill export** (fab package) |
+| `Pill_Dispenser_V5` | DRC cleanup |
+| `Pill_Dispenser_V6` – `V7` | latest revisions |
 
 ## ⚙️ Tech
 
