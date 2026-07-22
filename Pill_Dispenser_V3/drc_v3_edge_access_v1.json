@@ -1,0 +1,310 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T14:14:07+0530",
+    "kicad_version": "9.0.7",
+    "schematic_parity": [],
+    "source": "Pill_Dispenser_V3.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 28.0
+                    },
+                    "uuid": "7eaae594-bd43-450c-8917-6a84a7eaab8c"
+                },
+                {
+                    "description": "Pad 37 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 28.55
+                    },
+                    "uuid": "ada3d378-ccfd-4a9d-b1ca-b911603dcf95"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 28.0
+                    },
+                    "uuid": "7eaae594-bd43-450c-8917-6a84a7eaab8c"
+                },
+                {
+                    "description": "Pad 38 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 27.28
+                    },
+                    "uuid": "3841fe0d-867c-463c-870f-cbaa9b1276ef"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 27 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 41.25
+                    },
+                    "uuid": "ea1ac508-43df-4102-a2bd-f92ced7ce0f5"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 28 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 39.98
+                    },
+                    "uuid": "73aa53fe-4075-4fba-923d-55149beca3e8"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 29 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 38.71
+                    },
+                    "uuid": "dd885f41-1bc4-4979-a739-0cfb89d3bb01"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint J3",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 28.0
+                    },
+                    "uuid": "29bae6d4-811e-4a94-a2b6-e84d107bac71"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 30.0
+                    },
+                    "uuid": "e829dd07-8031-4879-8557-37c60075bd37"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint SW4",
+                    "pos": {
+                        "x": 16.0,
+                        "y": 53.0
+                    },
+                    "uuid": "48562c0d-5e31-440e-a457-b74da865043c"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 22.0,
+                        "y": 48.0
+                    },
+                    "uuid": "5389e2eb-ac5c-4adc-b04c-64617524b3f5"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "a7282748-2c73-409a-a0c3-83b10a640911"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 30.0
+                    },
+                    "uuid": "e829dd07-8031-4879-8557-37c60075bd37"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 28.0
+                    },
+                    "uuid": "7eaae594-bd43-450c-8917-6a84a7eaab8c"
+                },
+                {
+                    "description": "Pad 37 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 28.55
+                    },
+                    "uuid": "ada3d378-ccfd-4a9d-b1ca-b911603dcf95"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 28.0
+                    },
+                    "uuid": "7eaae594-bd43-450c-8917-6a84a7eaab8c"
+                },
+                {
+                    "description": "Pad 38 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 27.28
+                    },
+                    "uuid": "3841fe0d-867c-463c-870f-cbaa9b1276ef"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 27 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 41.25
+                    },
+                    "uuid": "ea1ac508-43df-4102-a2bd-f92ced7ce0f5"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 28 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 39.98
+                    },
+                    "uuid": "73aa53fe-4075-4fba-923d-55149beca3e8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J2",
+                    "pos": {
+                        "x": 71.0,
+                        "y": 40.0
+                    },
+                    "uuid": "74a3ea42-b80d-4d26-9fd7-ff80939dbde5"
+                },
+                {
+                    "description": "Pad 29 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 70.75,
+                        "y": 38.71
+                    },
+                    "uuid": "dd885f41-1bc4-4979-a739-0cfb89d3bb01"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        }
+    ]
+}

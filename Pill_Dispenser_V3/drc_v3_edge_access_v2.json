@@ -1,0 +1,246 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T14:14:58+0530",
+    "kicad_version": "9.0.7",
+    "schematic_parity": [],
+    "source": "Pill_Dispenser_V3.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D5 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 22.0
+                    },
+                    "uuid": "d5842df3-e094-408b-9284-5e92cc229e2e"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D5",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 22.0
+                    },
+                    "uuid": "07267f58-b406-4838-9ae6-1e0dd1b4cddb"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D4 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 16.0
+                    },
+                    "uuid": "9f46f58d-3b54-4e80-8f67-1b130e0d32a3"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D4",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 16.0
+                    },
+                    "uuid": "4b5712a0-1a41-46e7-9319-42bae3fff2b5"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R6 on F.Cu",
+                    "pos": {
+                        "x": 34.825,
+                        "y": 18.0
+                    },
+                    "uuid": "6b72ccd8-f7bf-4a60-b9d4-844019bffadf"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 18.0
+                    },
+                    "uuid": "921efb54-b5fb-48c7-ab64-0a0a34c3366e"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D1 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 10.0
+                    },
+                    "uuid": "6e863d20-eaf3-4d14-a765-320428ca1ad5"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D1",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 10.0
+                    },
+                    "uuid": "b4261b5a-874c-4707-86fb-a8ec5a8064a6"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint D5",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 22.0
+                    },
+                    "uuid": "07267f58-b406-4838-9ae6-1e0dd1b4cddb"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 58.0,
+                        "y": 30.0
+                    },
+                    "uuid": "144ef210-a8c2-4d8f-acf7-2a47361c6625"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 58.0,
+                        "y": 30.0
+                    },
+                    "uuid": "144ef210-a8c2-4d8f-acf7-2a47361c6625"
+                },
+                {
+                    "description": "Footprint D4",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 16.0
+                    },
+                    "uuid": "4b5712a0-1a41-46e7-9319-42bae3fff2b5"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 58.0,
+                        "y": 30.0
+                    },
+                    "uuid": "144ef210-a8c2-4d8f-acf7-2a47361c6625"
+                },
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 18.0
+                    },
+                    "uuid": "921efb54-b5fb-48c7-ab64-0a0a34c3366e"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 58.0,
+                        "y": 30.0
+                    },
+                    "uuid": "144ef210-a8c2-4d8f-acf7-2a47361c6625"
+                },
+                {
+                    "description": "Footprint D1",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 10.0
+                    },
+                    "uuid": "b4261b5a-874c-4707-86fb-a8ec5a8064a6"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 0.0
+                    },
+                    "uuid": "f587391b-f67b-4f1c-a056-8f76559b9f68"
+                },
+                {
+                    "description": "PTH pad 4 [<no net>] of J3",
+                    "pos": {
+                        "x": 80.62,
+                        "y": 30.0
+                    },
+                    "uuid": "ebec6746-0e63-42ef-a4fb-d1d9fa2fb578"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        }
+    ]
+}

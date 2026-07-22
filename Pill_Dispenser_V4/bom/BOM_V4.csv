@@ -1,0 +1,28 @@
+value,footprint,quantity,references
+MMBT2222A,Package_TO_SOT_SMD:SOT-23,1,['Q1']
+1k,Resistor_SMD:R_0603_1608Metric,1,['R4']
+10k,Resistor_SMD:R_0603_1608Metric,2,"['R17', 'R8']"
+22,Resistor_SMD:R_0603_1608Metric,2,"['R15', 'R16']"
+ESP32-S3-WROOM-1,RF_Module:ESP32-S3-WROOM-1,1,['U1']
+STDBY,LED_SMD:LED_0603_1608Metric,1,['D5']
+1N5819,Diode_SMD:D_SMA,1,['D3']
+USER,Button_Switch_SMD:SW_SPST_EVQP0,1,['SW1']
+330,Resistor_SMD:R_0603_1608Metric,3,"['R1', 'R2', 'R13']"
+STATUS,LED_SMD:LED_0603_1608Metric,1,['D1']
+TP4056-42-ESOP8,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.41x3.3mm_ThermalVias,1,['U3']
+BATTERY,Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,['J4']
+BOOT,Button_Switch_SMD:SW_SPST_EVQP0,1,['SW2']
+CHRG,LED_SMD:LED_0603_1608Metric,1,['D4']
+4.7k,Resistor_SMD:R_0603_1608Metric,2,"['R7', 'R6']"
+OLED,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,['J3']
+100nF,Capacitor_SMD:C_0603_1608Metric,4,"['C5', 'C6', 'C8', 'C7']"
+10uF,Capacitor_SMD:C_0603_1608Metric,3,"['C2', 'C9', 'C1']"
+5.1k,Resistor_SMD:R_0603_1608Metric,2,"['R11', 'R12']"
+100k,Resistor_SMD:R_0603_1608Metric,2,"['R10', 'R9']"
+2k,Resistor_SMD:R_0603_1608Metric,1,['R5']
+Buzzer,Buzzer_Beeper:MagneticBuzzer_Kingstate_KCG0601,1,['BZ1']
+RESET,Button_Switch_SMD:SW_SPST_EVQP0,1,['SW3']
+USB-C,Connector_USB:USB_C_Receptacle_GCT_USB4135-GF-A_6P_TopMnt_Horizontal,1,['J1']
+100uF,Capacitor_SMD:CP_Elec_6.3x5.4,1,['C10']
+AP2112K-3.3,Package_TO_SOT_SMD:SOT-23-5,1,['U4']
+SERVO,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,1,['J2']

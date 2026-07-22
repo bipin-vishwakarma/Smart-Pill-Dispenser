@@ -1,0 +1,55 @@
+import re
+
+print("Reading PCB file...")
+with open("Pill_Dispenser_V4.kicad_pcb", "r", encoding="utf-8", errors="replace") as f:
+    content = f.read()
+print(f"  {len(content)} bytes loaded.")
+
+# --- CHECK 1: J1 pad names ---
+print("\n[CHECK 1] J1 USB-C pad names:")
+j1_start = content.find('USB_C_Receptacle_GCT_USB4135')
+if j1_start == -1:
+    print("  ERROR: J1 footprint not found!")
+else:
+    j1_block = content[j1_start:j1_start+4000]
+    pad_names = re.findall(r'\(pad\s+"([^"]+)"', j1_block)
+    print(f"  Found pads: {pad_names}")
+    old_names = [p for p in pad_names if p in ('A5','B5','A9','B9','A12','B12','S1')]
+    new_names = [p for p in pad_names if p in ('1','2','3','4','5','6','7','8','9','10')]
+    print(f"  Old named pads still present: {old_names}")
+    print(f"  New numeric pads present: {new_names}")
+    if len(old_names) == 0 and len(new_names) >= 6:
+        print("  PASS: J1 pad names fixed correctly!")
+    else:
+        print("  FAIL or PARTIAL: Some pads may still need fixing")
+
+# --- CHECK 2: Board outline ---
+print("\n[CHECK 2] Board outline X range:")
+# find all start/end on Edge.Cuts
+# Look for gr_line blocks containing Edge.Cuts
+edge_blocks = re.findall(r'\(gr_line.*?Edge\.Cuts.*?\)', content, re.DOTALL)
+all_x = []
+for block in edge_blocks:
+    coords = re.findall(r'\((start|end)\s+([\d.]+)\s+([\d.]+)\)', block)
+    for _, x, y in coords:
+        all_x.append(float(x))
+
+if all_x:
+    print(f"  X values on Edge.Cuts: min={min(all_x):.2f}, max={max(all_x):.2f}")
+    if max(all_x) > 100:
+        print("  PASS: Right edge has been expanded beyond 100mm!")
+    else:
+        print(f"  FAIL: Right edge still at {max(all_x)}mm (was 79.9mm)")
+else:
+    print("  Could not parse Edge.Cuts segments.")
+
+# --- CHECK 3: Dangling track ---
+print("\n[CHECK 3] Dangling track at (63.2628, 22.7686) on B.Cu:")
+dangling = content.count("63.2628")
+print(f"  Occurrences of 63.2628 in file: {dangling}")
+if dangling == 0:
+    print("  PASS: Dangling track removed!")
+else:
+    print("  WARNING: Coordinate still present - may not be removed yet")
+
+print("\nDone.")

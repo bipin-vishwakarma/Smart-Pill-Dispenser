@@ -1,0 +1,486 @@
+{
+  "board": "D:\\UPES\\Projects\\Pill Despensor\\Pill_dispenser\\Pill_Dispenser_V2.kicad_pcb",
+  "timestamp": "2026-03-22T23:58:59+0530",
+  "total_violations": 47,
+  "violation_counts": {
+    "track_dangling": 21,
+    "lib_footprint_mismatch": 26
+  },
+  "severity_counts": {
+    "error": 0,
+    "warning": 47,
+    "info": 0
+  },
+  "violations": [
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 187.6125,
+        "y": 113.005,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 194.1125,
+        "y": 113.005,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 188.4125,
+        "y": 113.005,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 193.3125,
+        "y": 113.005,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 195.1825,
+        "y": 118.1,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 186.5425,
+        "y": 118.1,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 195.1825,
+        "y": 118.1,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 186.5425,
+        "y": 113.92,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 157.0925,
+        "y": 99.74,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 157.7925,
+        "y": 99.04,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 156.3925,
+        "y": 100.44,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 158.4925,
+        "y": 98.34,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 157.7925,
+        "y": 100.44,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 158.4925,
+        "y": 99.74,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 158.4925,
+        "y": 98.34,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 158.4925,
+        "y": 101.14,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 157.7925,
+        "y": 99.04,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 156.3925,
+        "y": 100.44,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 157.0925,
+        "y": 101.14,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 150.5425,
+        "y": 93.29,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "track_dangling",
+      "severity": "warning",
+      "message": "Track has unconnected end",
+      "location": {
+        "x": 150.5425,
+        "y": 92.02,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 115.02,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'D_SMA' does not match copy in library 'Diode_SMD'.",
+      "location": {
+        "x": 25.0,
+        "y": 75.0,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 122.55,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 112.51,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 152.4025,
+        "y": 115.02,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'USB_C_Receptacle_HRO_TYPE-C-31-M-12' does not match copy in library 'Connector_USB'.",
+      "location": {
+        "x": 35.0,
+        "y": 30.0,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 152.4025,
+        "y": 112.51,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 164.6525,
+        "y": 121.79,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'SW_PUSH_6mm_H5mm' does not match copy in library 'Button_Switch_THT'.",
+      "location": {
+        "x": 185.8425,
+        "y": 88.13,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 125.06,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 112.51,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 115.02,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 117.53,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 120.04,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 164.6525,
+        "y": 115.77,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 120.04,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0603_1608Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 152.4025,
+        "y": 117.53,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 117.53,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 152.4025,
+        "y": 125.06,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 164.6525,
+        "y": 118.78,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'LED_0805_2012Metric' does not match copy in library 'LED_SMD'.",
+      "location": {
+        "x": 195.8025,
+        "y": 96.175,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'LED_0805_2012Metric' does not match copy in library 'LED_SMD'.",
+      "location": {
+        "x": 195.8025,
+        "y": 99.215,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 156.4125,
+        "y": 122.55,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 152.4025,
+        "y": 122.55,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'R_0603_1608Metric' does not match copy in library 'Resistor_SMD'.",
+      "location": {
+        "x": 160.4225,
+        "y": 125.06,
+        "unit": "mm"
+      }
+    },
+    {
+      "type": "lib_footprint_mismatch",
+      "severity": "warning",
+      "message": "Footprint 'C_0805_2012Metric' does not match copy in library 'Capacitor_SMD'.",
+      "location": {
+        "x": 164.6525,
+        "y": 112.76,
+        "unit": "mm"
+      }
+    }
+  ]
+}

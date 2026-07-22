@@ -1,0 +1,61 @@
+# KiCad temporary and backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*-backups/
+_autosave-*
+*.rpt
+*.log
+fp-info-cache
+*.net
+*.dsn
+*.ses
+*.rules
+*.run
+*.tmp
+
+# Gerber and manufacturing files (can be generated, usually kept separate or in ZIP)
+# gerbers/
+# gerbers_final/
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Project-specific temporary/debug scripts
+tmp_*
+debug_*
+audit_*
+check_*
+verify_*
+fix_all_out.txt
+cli_error.txt
+draw_error.txt
+freerouting_error.txt
+placement_error.txt
+raw_debug.py
+
+# OS-specific
+.DS_Store
+Thumbs.db

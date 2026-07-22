@@ -1,0 +1,100 @@
+# KiCad Tools Project Specification
+# Format version: 1.0
+# MCU Breakout Board Template
+# =============================================================================
+
+kct_version: "1.0"
+
+project:
+  name: "Pill_Dispenser_V3"
+  revision: "A"
+  created: 2026-03-15
+  author: ""
+
+intent:
+  summary: |
+    Microcontroller breakout board providing easy access to GPIO,
+    programming interface, and basic peripherals.
+
+  use_cases:
+    - Development and prototyping
+    - Learning platform
+    - Quick project integration
+
+  interfaces:
+    - name: USB
+      type: usb_device
+      protocol: "USB 2.0 Full Speed"
+
+    - name: GPIO
+      type: gpio
+      pins: ["PA0-PA15", "PB0-PB15"]
+
+    - name: SWD
+      type: debug
+      protocol: "ARM SWD"
+      pins: ["SWCLK", "SWDIO", "RESET"]
+
+requirements:
+  electrical:
+    input:
+      voltage:
+        nominal: "5V"
+      current:
+        max: "500mA"
+
+  mechanical:
+    dimensions:
+      width: "50mm"
+      height: "25mm"
+    mounting_holes:
+      - x: "2.5mm"
+        y: "2.5mm"
+        diameter: "2.2mm"
+      - x: "47.5mm"
+        y: "22.5mm"
+        diameter: "2.2mm"
+
+  manufacturing:
+    target_fab: jlcpcb
+    layers:
+      preferred: 2
+    min_trace: "0.2mm"
+    min_space: "0.2mm"
+
+suggestions:
+  components:
+    mcu:
+      preferred: ["STM32F103C8T6", "RP2040"]
+      rationale: "Popular, well-supported MCUs"
+    usb_connector:
+      preferred: ["USB-C", "Micro-USB"]
+
+  layout:
+    - "USB connector at board edge"
+    - "Decoupling caps close to MCU"
+    - "Crystal close to MCU with ground guard"
+    - "SWD header accessible"
+
+progress:
+  phase: concept
+  phases:
+    concept:
+      status: in_progress
+      checklist:
+        - [ ] Select MCU
+        - [ ] Define pinout
+        - [ ] Choose form factor
+    schematic:
+      status: pending
+      checklist:
+        - [ ] MCU and power
+        - [ ] USB interface
+        - [ ] Programming header
+        - [ ] GPIO breakout
+    layout:
+      status: pending
+      checklist:
+        - [ ] Component placement
+        - [ ] Routing
+        - [ ] DRC clean

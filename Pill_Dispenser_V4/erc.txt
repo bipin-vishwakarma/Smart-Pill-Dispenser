@@ -1,0 +1,1196 @@
+ERC report (2026-03-23T11:42:50+0530, Encoding UTF8)
+
+***** Sheet /
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 30.22 mm): Symbol J1 Pin 1 [Pin_1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 32.76 mm): Symbol J1 Pin 2 [Pin_2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 35.30 mm): Symbol J1 Pin 3 [Pin_3, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 37.84 mm): Symbol J1 Pin 4 [Pin_4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 40.38 mm): Symbol J1 Pin 5 [Pin_5, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 42.92 mm): Symbol J1 Pin 6 [Pin_6, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 45.46 mm): Symbol J1 Pin 7 [Pin_7, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(25.40 mm, 45.72 mm): Wire, length 12.952 mm
+    @(25.40 mm, 43.18 mm): Wire, length 13.678 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 48.00 mm): Symbol J1 Pin 8 [Pin_8, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 50.54 mm): Symbol J1 Pin 9 [Pin_9, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(25.40 mm, 50.80 mm): Horizontal Wire, length 12.70 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 53.08 mm): Symbol J1 Pin 10 [Pin_10, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(25.40 mm, 53.34 mm): Horizontal Wire, length 12.70 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 55.62 mm): Symbol J1 Pin 11 [Pin_11, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(25.40 mm, 55.88 mm): Horizontal Wire, length 12.70 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 36.19 mm): Symbol R15 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 58.16 mm): Symbol J1 Pin 12 [Pin_12, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(25.40 mm, 58.42 mm): Horizontal Wire, length 12.70 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 60.70 mm): Symbol J1 Pin 13 [Pin_13, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(49.53 mm, 43.18 mm): Horizontal Wire, length 8.89 mm
+    @(58.42 mm, 43.18 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 43.81 mm): Symbol R15 Pin 2 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(37.54 mm, 55.62 mm): Label 'USB_DN'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 63.24 mm): Symbol J1 Pin 14 [Pin_14, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(58.00 mm, 36.19 mm): Symbol R16 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(58.42 mm, 35.56 mm): Vertical Wire, length 1.27 mm
+    @(49.53 mm, 35.56 mm): Wire, length 8.98 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(58.00 mm, 36.92 mm): Label 'USB_DP'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 65.78 mm): Symbol J1 Pin 15 [Pin_15, Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(58.00 mm, 43.08 mm): Label 'USB_DP_MCU'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(58.00 mm, 43.81 mm): Symbol R16 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(24.92 mm, 68.32 mm): Symbol J1 Pin 16 [Pin_16, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(49.53 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 58.19 mm): Symbol R11 Pin 1 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(50.00 mm, 58.92 mm): Label 'CC1'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(58.00 mm, 58.19 mm): Symbol R12 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(49.53 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(58.42 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 65.81 mm): Symbol R11 Pin 2 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(58.00 mm, 58.92 mm): Label 'CC2'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(73.84 mm, 42.92 mm): Symbol U3 Pin 8 [CE, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(73.84 mm, 42.92 mm): Symbol U3 Pin 8 [CE, Input, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(73.66 mm, 45.72 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(58.00 mm, 65.08 mm): Label 'GND'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(58.00 mm, 65.81 mm): Symbol R12 Pin 2 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(76.39 mm, 43.42 mm): Label 'VBUS'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(73.66 mm, 48.26 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(58.42 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(81.28 mm, 35.56 mm): Horizontal Wire, length 2.54 mm
+    @(83.82 mm, 35.56 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(76.39 mm, 45.96 mm): Label 'TEMP'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(73.84 mm, 50.54 mm): Symbol U3 Pin 6 [~{STDBY}, Open collector, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(76.39 mm, 48.50 mm): Label 'PROG'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(73.66 mm, 53.34 mm): Vertical Wire, length 0.00 mm
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(84.00 mm, 35.30 mm): Symbol U3 Pin 4 [V_{CC}, Power input, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(71.12 mm, 67.31 mm): Wire, length 12.952 mm
+    @(71.12 mm, 69.85 mm): Horizontal Wire, length 12.70 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(70.92 mm, 70.00 mm): Symbol J4 Pin 1 [Pin_1, Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(91.62 mm, 43.42 mm): Label 'VBAT'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(70.92 mm, 72.54 mm): Symbol J4 Pin 2 [Pin_2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(81.46 mm, 60.70 mm): Symbol U3 Pin 9 [EPAD, Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(91.62 mm, 45.96 mm): Label 'CHRG_LED'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(94.16 mm, 42.92 mm): Symbol U3 Pin 5 [BAT, Power output, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(83.82 mm, 60.96 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(91.62 mm, 48.50 mm): Label 'STDBY_LED'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(93.98 mm, 45.72 mm): Vertical Wire, length 0.00 mm
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(94.16 mm, 48.00 mm): Symbol U3 Pin 1 [TEMP, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(100.00 mm, 36.19 mm): Symbol R5 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(100.33 mm, 35.56 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(94.16 mm, 50.54 mm): Symbol U3 Pin 2 [PROG, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(96.19 mm, 48.00 mm): Symbol D4 Pin 1 [K, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(96.52 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+    @(93.98 mm, 48.26 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(93.98 mm, 53.34 mm): Vertical Wire, length 0.00 mm
+    @(96.52 mm, 55.88 mm): Wire, length 3.592 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(100.00 mm, 43.81 mm): Symbol R5 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(100.33 mm, 43.18 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(96.19 mm, 56.00 mm): Symbol D5 Pin 1 [K, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(103.81 mm, 48.00 mm): Symbol D4 Pin 2 [A, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(104.14 mm, 48.26 mm): Wire, length 4.579 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(108.00 mm, 44.19 mm): Symbol R2 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(107.95 mm, 44.45 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(103.81 mm, 56.00 mm): Symbol D5 Pin 2 [A, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(104.14 mm, 55.88 mm): Wire, length 4.579 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(118.00 mm, 20.19 mm): Symbol C1 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(108.00 mm, 51.81 mm): Symbol R2 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(107.95 mm, 52.07 mm): Vertical Wire, length 1.27 mm
+    @(107.95 mm, 52.07 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(108.00 mm, 52.19 mm): Symbol R13 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(118.00 mm, 27.81 mm): Symbol C1 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(118.11 mm, 27.94 mm): Wire, length 4.016 mm
+    @(118.11 mm, 20.32 mm): Wire, length 9.672 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(107.95 mm, 59.69 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(108.00 mm, 59.81 mm): Symbol R13 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(114.19 mm, 48.00 mm): Symbol D3 Pin 1 [K, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(120.38 mm, 29.46 mm): Symbol U4 Pin 1 [VIN, Power input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(120.38 mm, 29.46 mm): Symbol U4 Pin 1 [VIN, Power input, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(114.30 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(101.08 mm, 72.54 mm): Label 'V_SW'
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(120.38 mm, 32.00 mm): Symbol U4 Pin 3 [EN, Input, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(120.65 mm, 31.75 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(120.65 mm, 34.29 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(128.27 mm, 24.13 mm): Wire, length 5.236 mm
+    @(129.54 mm, 26.67 mm): Vertical Wire, length 2.54 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(121.81 mm, 48.00 mm): Symbol D3 Pin 2 [A, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(121.92 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(130.00 mm, 26.19 mm): Symbol R3 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(129.54 mm, 34.29 mm): Vertical Wire, length 2.54 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(130.00 mm, 33.81 mm): Symbol R3 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(118.00 mm, 66.19 mm): Symbol C10 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(118.11 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(133.35 mm, 31.75 mm): Horizontal Wire, length 1.27 mm
+    @(135.89 mm, 27.94 mm): Wire, length 4.016 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(136.00 mm, 20.19 mm): Symbol C2 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(135.62 mm, 29.46 mm): Symbol U4 Pin 5 [VOUT, Power output, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(136.00 mm, 27.81 mm): Symbol C2 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(118.00 mm, 73.81 mm): Symbol C10 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(118.11 mm, 73.66 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(135.89 mm, 34.29 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.00 mm, 26.19 mm): Symbol C11 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.00 mm, 33.81 mm): Symbol C11 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+    @(170.18 mm, 26.67 mm): Horizontal Wire, length 11.43 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 26.19 mm): Symbol C5 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+    @(170.18 mm, 34.29 mm): Wire, length 11.50 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 33.81 mm): Symbol C5 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(159.46 mm, 95.46 mm): Symbol BZ1 Pin 1 [+, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(159.46 mm, 100.54 mm): Symbol BZ1 Pin 2 [-, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(188.00 mm, 26.19 mm): Symbol C6 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(187.96 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(188.00 mm, 26.92 mm): Label '3V3'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 83.46 mm): Symbol J3 Pin 1 [Pin_1, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(188.00 mm, 33.81 mm): Symbol C6 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(187.96 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 86.00 mm): Symbol J3 Pin 2 [Pin_2, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 88.54 mm): Symbol J3 Pin 3 [Pin_3, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(166.37 mm, 97.79 mm): Horizontal Wire, length 1.27 mm
+    @(160.02 mm, 100.33 mm): Wire, length 8.032 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(171.45 mm, 88.90 mm): Wire, length 5.68 mm
+    @(173.99 mm, 92.71 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(166.92 mm, 98.00 mm): Symbol Q1 Pin 1 [B, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(166.92 mm, 98.00 mm): Symbol Q1 Pin 1 [B, Input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 91.08 mm): Symbol J3 Pin 4 [Pin_4, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(194.00 mm, 26.19 mm): Symbol C7 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(194.31 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 74.19 mm): Symbol R6 Pin 1 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(182.00 mm, 74.92 mm): Label 'SDA'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(194.00 mm, 33.81 mm): Symbol C7 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(194.31 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(174.54 mm, 92.92 mm): Symbol Q1 Pin 2 [C, Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(174.54 mm, 93.46 mm): Label 'BUZZER'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 81.28 mm): Vertical Wire, length 0.00 mm
+    @(171.45 mm, 81.28 mm): Horizontal Wire, length 10.16 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 81.81 mm): Symbol R6 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(199.39 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(200.00 mm, 26.19 mm): Symbol C8 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(173.99 mm, 102.87 mm): Vertical Wire, length 2.54 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(199.39 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(174.54 mm, 103.08 mm): Symbol Q1 Pin 3 [E, Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(200.00 mm, 33.81 mm): Symbol C8 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(190.00 mm, 74.19 mm): Symbol R7 Pin 1 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(190.00 mm, 74.92 mm): Label 'SCL'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(190.50 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 93.98 mm): Vertical Wire, length 2.54 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 94.19 mm): Symbol R4 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(190.00 mm, 81.81 mm): Symbol R7 Pin 2 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(182.00 mm, 99.27 mm): Label 'Q1_BASE'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(205.74 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(206.00 mm, 26.19 mm): Symbol C9 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(181.61 mm, 101.60 mm): Vertical Wire, length 2.54 mm
+    @(190.50 mm, 97.79 mm): Wire, length 8.98 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(182.00 mm, 101.81 mm): Symbol R4 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(205.74 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(206.00 mm, 33.81 mm): Symbol C9 Pin 2 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(192.92 mm, 83.46 mm): Symbol J2 Pin 1 [Pin_1, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(193.04 mm, 83.82 mm): Wire, length 3.592 mm
+    @(190.50 mm, 81.28 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(192.92 mm, 86.00 mm): Symbol J2 Pin 2 [Pin_2, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(193.04 mm, 86.36 mm): Horizontal Wire, length 5.08 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(192.92 mm, 88.54 mm): Symbol J2 Pin 3 [Pin_3, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(193.04 mm, 88.90 mm): Horizontal Wire, length 5.08 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(182.88 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(190.19 mm, 98.00 mm): Symbol D1 Pin 1 [K, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(190.50 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(197.81 mm, 98.00 mm): Symbol D1 Pin 2 [A, Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(193.04 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(201.93 mm, 93.98 mm): Vertical Wire, length 1.27 mm
+    @(198.12 mm, 97.79 mm): Wire, length 4.579 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(205.54 mm, 86.00 mm): Label 'SERVO_SIG'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(202.00 mm, 94.19 mm): Symbol R1 Pin 1 [Passive, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(202.00 mm, 94.92 mm): Label 'LED1'
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(201.93 mm, 101.60 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(202.00 mm, 101.81 mm): Symbol R1 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(199.39 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(200.66 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 30.19 mm): Symbol R8 Pin 1 [Passive, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 37.81 mm): Symbol R8 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(209.55 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 58.19 mm): Symbol R9 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(232.41 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(232.00 mm, 65.08 mm): Label 'RESET'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 65.81 mm): Symbol R9 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(232.41 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(240.00 mm, 30.19 mm): Symbol R17 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(240.03 mm, 30.48 mm): Vertical Wire, length 0.00 mm
+    @(232.41 mm, 30.48 mm): Horizontal Wire, length 7.62 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(240.00 mm, 37.81 mm): Symbol R17 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(240.03 mm, 38.10 mm): Vertical Wire, length 1.27 mm
+    @(232.41 mm, 38.10 mm): Wire, length 7.725 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 95.25 mm): Symbol U1 Pin 3 [EN, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(224.79 mm, 95.25 mm): Symbol U1 Pin 3 [EN, Input, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(224.79 mm, 97.79 mm): Vertical Wire, length 0.00 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 100.33 mm): Symbol U1 Pin 27 [IO0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(240.00 mm, 58.19 mm): Symbol R10 Pin 1 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(240.03 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[label_dangling]: Label not connected to anything
+    ; error
+    @(240.00 mm, 65.08 mm): Label 'BOOT0'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(240.00 mm, 65.81 mm): Symbol R10 Pin 2 [Passive, Line]
+[wire_dangling]: Wires not connected to anything
+    ; error
+    @(240.03 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 107.95 mm): Symbol U1 Pin 15 [IO3, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 110.49 mm): Symbol U1 Pin 4 [IO4, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 113.03 mm): Symbol U1 Pin 5 [IO5, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 115.57 mm): Symbol U1 Pin 6 [IO6, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 118.11 mm): Symbol U1 Pin 7 [IO7, Bidirectional, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(224.79 mm, 118.43 mm): Label 'USER_BTN'
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(240.03 mm, 90.17 mm): Symbol U1 Pin 2 [3V3, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(224.79 mm, 138.43 mm): Symbol U1 Pin 8 [IO15, Bidirectional, Line]
+[label_dangling]: Label not connected to anything
+    ; error
+    @(227.33 mm, 138.43 mm): Label 'RTC_INT'
+[label_dangling]: Label not connected to anything
+    ; error
+    @(227.33 mm, 143.51 mm): Label 'USB_DN_MCU'
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 95.25 mm): Symbol U1 Pin 37 [TXD0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 97.79 mm): Symbol U1 Pin 36 [RXD0, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 100.33 mm): Symbol U1 Pin 10 [IO17, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 102.87 mm): Symbol U1 Pin 11 [IO18, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 105.41 mm): Symbol U1 Pin 13 [USB_D-, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 107.95 mm): Symbol U1 Pin 14 [USB_D+, Bidirectional, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(240.03 mm, 146.05 mm): Symbol U1 Pin 1 [GND, Power input, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 128.27 mm): Symbol U1 Pin 34 [IO41, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 130.81 mm): Symbol U1 Pin 35 [IO42, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 133.35 mm): Symbol U1 Pin 26 [IO45, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 135.89 mm): Symbol U1 Pin 16 [IO46, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 138.43 mm): Symbol U1 Pin 24 [IO47, Bidirectional, Line]
+[pin_not_connected]: Pin not connected
+    ; error
+    @(255.27 mm, 140.97 mm): Symbol U1 Pin 25 [IO48, Bidirectional, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 38.10 mm): Wire, length 16.264 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 40.64 mm): Wire, length 14.811 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 43.18 mm): Wire, length 13.678 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 45.72 mm): Wire, length 12.952 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 48.26 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 50.80 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 53.34 mm): Horizontal Wire, length 12.70 mm
+[label_multiple_wires]: Label connects more than one wire at 375400, 480000
+    ; warning
+    @(37.54 mm, 48.00 mm): Label 'VBUS'
+    @(25.40 mm, 38.10 mm): Wire, length 16.264 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(49.53 mm, 35.56 mm): Wire, length 8.98 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 55.88 mm): Horizontal Wire, length 12.70 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(24.92 mm, 58.16 mm): Symbol J1 Pin 12 [Pin_12, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 50.80 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 58.42 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 53.34 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(49.53 mm, 43.18 mm): Horizontal Wire, length 8.89 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 60.96 mm): Horizontal Wire, length 12.70 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(50.00 mm, 43.81 mm): Symbol R15 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 55.88 mm): Horizontal Wire, length 12.70 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(58.00 mm, 36.19 mm): Symbol R16 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(58.42 mm, 35.56 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 58.42 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(25.40 mm, 66.04 mm): Wire, length 13.678 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(49.53 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(49.53 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(49.53 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(58.42 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(50.00 mm, 65.81 mm): Symbol R11 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(73.66 mm, 45.72 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(58.42 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(58.00 mm, 65.81 mm): Symbol R12 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(73.66 mm, 48.26 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(58.42 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(81.28 mm, 35.56 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(73.66 mm, 53.34 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(84.00 mm, 35.30 mm): Symbol U3 Pin 4 [V_{CC}, Power input, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(71.12 mm, 67.31 mm): Wire, length 12.952 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(70.92 mm, 70.00 mm): Symbol J4 Pin 1 [Pin_1, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(71.12 mm, 69.85 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(83.82 mm, 60.96 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(93.98 mm, 45.72 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(100.00 mm, 36.19 mm): Symbol R5 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(100.33 mm, 35.56 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(100.33 mm, 35.56 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(96.19 mm, 48.00 mm): Symbol D4 Pin 1 [K, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(96.52 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[label_multiple_wires]: Label connects more than one wire at 835400, 700000
+    ; warning
+    @(83.54 mm, 70.00 mm): Label 'VBAT'
+    @(71.12 mm, 69.85 mm): Horizontal Wire, length 12.70 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(100.33 mm, 43.18 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(96.19 mm, 56.00 mm): Symbol D5 Pin 1 [K, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(96.52 mm, 55.88 mm): Wire, length 3.592 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(104.14 mm, 48.26 mm): Wire, length 4.579 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(104.14 mm, 48.26 mm): Wire, length 4.579 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(108.00 mm, 44.19 mm): Symbol R2 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(107.95 mm, 44.45 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(104.14 mm, 55.88 mm): Wire, length 4.579 mm
+[label_multiple_wires]: Label connects more than one wire at 1080000, 510800
+    ; warning
+    @(108.00 mm, 51.08 mm): Label 'GND'
+    @(107.95 mm, 52.07 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(118.11 mm, 20.32 mm): Wire, length 9.672 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(108.00 mm, 52.19 mm): Symbol R13 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(104.14 mm, 55.88 mm): Wire, length 4.579 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(118.00 mm, 27.81 mm): Symbol C1 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(118.11 mm, 27.94 mm): Wire, length 4.016 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(107.95 mm, 59.69 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(114.19 mm, 48.00 mm): Symbol D3 Pin 1 [K, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(114.30 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(120.65 mm, 31.75 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(120.65 mm, 34.29 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(114.30 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(121.92 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(128.27 mm, 24.13 mm): Wire, length 5.236 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(121.92 mm, 48.26 mm): Horizontal Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(129.54 mm, 26.67 mm): Vertical Wire, length 2.54 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(130.00 mm, 26.19 mm): Symbol R3 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(129.54 mm, 34.29 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(129.54 mm, 34.29 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(118.11 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(118.11 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(133.08 mm, 32.00 mm): Symbol U4 Hidden pin 4 [NC, Unconnected, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(133.35 mm, 31.75 mm): Horizontal Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(135.89 mm, 20.32 mm): Wire, length 10.925 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(136.00 mm, 20.19 mm): Symbol C2 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(135.89 mm, 27.94 mm): Wire, length 4.016 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(118.00 mm, 73.81 mm): Symbol C10 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(118.11 mm, 73.66 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(135.89 mm, 34.29 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(170.00 mm, 26.19 mm): Symbol C11 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(170.18 mm, 26.67 mm): Horizontal Wire, length 11.43 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(170.18 mm, 34.29 mm): Wire, length 11.50 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(182.00 mm, 26.19 mm): Symbol C5 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(159.46 mm, 95.46 mm): Symbol BZ1 Pin 1 [+, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(160.02 mm, 95.25 mm): Wire, length 8.032 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(160.02 mm, 100.33 mm): Wire, length 8.032 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(171.45 mm, 81.28 mm): Horizontal Wire, length 10.16 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(187.96 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(187.96 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(171.45 mm, 83.82 mm): Wire, length 10.473 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(188.00 mm, 33.81 mm): Symbol C6 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(187.96 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(171.45 mm, 86.36 mm): Wire, length 8.032 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(166.37 mm, 97.79 mm): Horizontal Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(171.45 mm, 88.90 mm): Wire, length 5.68 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(166.92 mm, 98.00 mm): Symbol Q1 Pin 1 [B, Input, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(170.92 mm, 91.08 mm): Symbol J3 Pin 4 [Pin_4, Passive, Line]
+[label_multiple_wires]: Label connects more than one wire at 1670800, 980000
+    ; warning
+    @(167.08 mm, 98.00 mm): Label 'BUZZER'
+    @(160.02 mm, 95.25 mm): Wire, length 8.032 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(194.31 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(182.00 mm, 74.19 mm): Symbol R6 Pin 1 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(194.00 mm, 33.81 mm): Symbol C7 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(194.31 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(173.99 mm, 92.71 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(194.31 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(173.99 mm, 102.87 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(199.39 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(199.39 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(173.99 mm, 102.87 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(199.39 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(200.00 mm, 33.81 mm): Symbol C8 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(190.50 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 93.98 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(190.50 mm, 73.66 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 93.98 mm): Vertical Wire, length 2.54 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(190.00 mm, 81.81 mm): Symbol R7 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(205.74 mm, 26.67 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(206.00 mm, 26.19 mm): Symbol C9 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(181.61 mm, 101.60 mm): Vertical Wire, length 2.54 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(205.74 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(182.00 mm, 101.81 mm): Symbol R4 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(205.74 mm, 34.29 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(192.92 mm, 83.46 mm): Symbol J2 Pin 1 [Pin_1, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 83.82 mm): Wire, length 3.592 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 86.36 mm): Horizontal Wire, length 5.08 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 88.90 mm): Horizontal Wire, length 5.08 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(182.92 mm, 110.00 mm): Symbol SW1 Pin 1 [1, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(182.88 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(190.50 mm, 97.79 mm): Wire, length 8.98 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 86.36 mm): Horizontal Wire, length 5.08 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 88.90 mm): Horizontal Wire, length 5.08 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(190.50 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(190.92 mm, 110.00 mm): Symbol SW2 Pin 1 [1, Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(197.81 mm, 98.00 mm): Symbol D1 Pin 2 [A, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(198.12 mm, 97.79 mm): Wire, length 4.579 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(193.04 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 93.98 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(201.93 mm, 101.60 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(202.00 mm, 101.81 mm): Symbol R1 Pin 2 [Passive, Line]
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(198.92 mm, 110.00 mm): Symbol SW3 Pin 1 [1, Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(199.39 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(200.66 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(232.41 mm, 30.48 mm): Horizontal Wire, length 7.62 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(232.00 mm, 37.81 mm): Symbol R8 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(232.41 mm, 38.10 mm): Wire, length 7.725 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(209.55 mm, 110.49 mm): Vertical Wire, length 0.00 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(232.00 mm, 58.19 mm): Symbol R9 Pin 1 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(232.41 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[multiple_net_names]: Both EN and RESET are attached to the same items; EN will be used in the netlist
+    ; warning
+    @(227.33 mm, 120.65 mm): Label 'EN'
+    @(232.00 mm, 65.08 mm): Label 'RESET'
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(232.41 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(232.41 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[label_multiple_wires]: Label connects more than one wire at 2400000, 370800
+    ; warning
+    @(240.00 mm, 37.08 mm): Label 'RESET'
+    @(240.03 mm, 38.10 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(240.00 mm, 37.81 mm): Symbol R17 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(240.03 mm, 38.10 mm): Vertical Wire, length 1.27 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(224.79 mm, 97.79 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(240.03 mm, 58.42 mm): Vertical Wire, length 0.00 mm
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(240.03 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+[endpoint_off_grid]: Symbol pin or wire end off connection grid
+    ; warning
+    @(240.00 mm, 65.81 mm): Symbol R10 Pin 2 [Passive, Line]
+[unconnected_wire_endpoint]: Unconnected wire endpoint
+    ; warning
+    @(240.03 mm, 66.04 mm): Vertical Wire, length 1.27 mm
+
+ ** ERC messages: 388  Errors 223  Warnings 165

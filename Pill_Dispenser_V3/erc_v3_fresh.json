@@ -1,0 +1,345 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T05:02:25+0530",
+    "kicad_version": "9.0.7",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/ea12cbc0-1d16-4db4-9a06-d5e88f7c5224",
+            "violations": [
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'VBUS'",
+                            "pos": {
+                                "x": 0.28,
+                                "y": 0.18
+                            },
+                            "uuid": "2ed629d1-a89f-44b5-abe9-9dfd74499b95"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'GND'",
+                            "pos": {
+                                "x": 0.28,
+                                "y": 0.2
+                            },
+                            "uuid": "a92bbcc8-0ee7-4748-af8b-16a09b75c531"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label '+3V3'",
+                            "pos": {
+                                "x": 0.28,
+                                "y": 0.22
+                            },
+                            "uuid": "28d5fa40-aa55-46a4-a068-d1fcd53487b9"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'D+'",
+                            "pos": {
+                                "x": 0.4,
+                                "y": 0.34
+                            },
+                            "uuid": "657562ec-8833-49aa-adf5-2bd537c13d71"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'D-'",
+                            "pos": {
+                                "x": 0.4,
+                                "y": 0.38
+                            },
+                            "uuid": "24c3363e-5dcb-4d5f-8984-d8667a888cc5"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'CC1'",
+                            "pos": {
+                                "x": 0.44,
+                                "y": 0.52
+                            },
+                            "uuid": "da14bfcb-d660-4278-b5a1-7aa5f8d6cb9f"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'CC2'",
+                            "pos": {
+                                "x": 0.56,
+                                "y": 0.52
+                            },
+                            "uuid": "4c8c473b-b000-44c5-8626-da6f64af48b0"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'VBAT'",
+                            "pos": {
+                                "x": 0.88,
+                                "y": 0.3
+                            },
+                            "uuid": "bacf7b5d-f3dc-443e-84e2-b1205bb0816f"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'PROG'",
+                            "pos": {
+                                "x": 0.9,
+                                "y": 0.34
+                            },
+                            "uuid": "d1b10784-2b49-49e4-ab1a-18de69c06252"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'CHRG'",
+                            "pos": {
+                                "x": 0.9,
+                                "y": 0.42
+                            },
+                            "uuid": "4df9c213-b1f9-424e-ae05-e056a4634a36"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'VBAT_RAW'",
+                            "pos": {
+                                "x": 0.82,
+                                "y": 0.6
+                            },
+                            "uuid": "74a1d587-d7e3-4d32-9b27-53a0f35ae03d"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'STDBY'",
+                            "pos": {
+                                "x": 0.9,
+                                "y": 0.48
+                            },
+                            "uuid": "ef010fe6-2f33-42b4-ada5-7748ac178d1f"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'SDA'",
+                            "pos": {
+                                "x": 1.5,
+                                "y": 0.72
+                            },
+                            "uuid": "09711754-fae9-4914-96df-dce0bd7c8a1d"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'SCL'",
+                            "pos": {
+                                "x": 1.54,
+                                "y": 0.72
+                            },
+                            "uuid": "58c5c6ef-d484-4aa1-90cb-5083c7b996f6"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'BUZZER_CTRL'",
+                            "pos": {
+                                "x": 1.56,
+                                "y": 0.82
+                            },
+                            "uuid": "31ee036a-ed7a-47fc-894c-95b493305600"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'LED_STATUS'",
+                            "pos": {
+                                "x": 1.7,
+                                "y": 0.78
+                            },
+                            "uuid": "10cf441c-9ec7-4197-ab7a-fbf592a301a7"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'USER_BTN'",
+                            "pos": {
+                                "x": 1.64,
+                                "y": 0.9
+                            },
+                            "uuid": "b53cbf05-6886-4cdc-8b76-8b08020e2feb"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'SERVO_PWM'",
+                            "pos": {
+                                "x": 1.76,
+                                "y": 0.7
+                            },
+                            "uuid": "81a81fb0-dc99-4c4e-a33d-3ecd7754180a"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'GPIO0'",
+                            "pos": {
+                                "x": 1.88,
+                                "y": 0.36
+                            },
+                            "uuid": "a17940b5-8d1c-4c4f-bce9-a25389ee43a5"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'EN'",
+                            "pos": {
+                                "x": 1.94,
+                                "y": 0.36
+                            },
+                            "uuid": "8b4b2819-edda-48db-a1ba-4e663f14c4ba"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Label not connected to anything",
+                    "items": [
+                        {
+                            "description": "Label 'VBAT_DIV'",
+                            "pos": {
+                                "x": 1.94,
+                                "y": 0.56
+                            },
+                            "uuid": "6e746314-8bda-45bb-b1e5-3c053e8bee1d"
+                        }
+                    ],
+                    "severity": "error",
+                    "type": "label_dangling"
+                },
+                {
+                    "description": "Footprint 'SW_SPDT_PCM12' not found in library 'Button_Switch_THT'.",
+                    "items": [
+                        {
+                            "description": "Symbol SW4 [SW_SPDT]",
+                            "pos": {
+                                "x": 0.92,
+                                "y": 0.6
+                            },
+                            "uuid": "6f161111-78d0-483a-8be3-92f8b055f3fa"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "footprint_link_issues"
+                }
+            ]
+        }
+    ],
+    "source": "Pill_Dispenser_V3.kicad_sch"
+}

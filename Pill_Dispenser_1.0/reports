@@ -1,0 +1,45 @@
+Total pin_not_connected: 11
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 36.19 mm): Symbol R15 Pin 1 [Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(50.00 mm, 43.81 mm): Symbol R15 Pin 2 [Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(136.00 mm, 20.19 mm): Symbol C2 Pin 1 [Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(159.46 mm, 95.46 mm): Symbol BZ1 Pin 1 [+, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(159.46 mm, 100.54 mm): Symbol BZ1 Pin 2 [-, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 86.00 mm): Symbol J3 Pin 2 [Pin_2, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 88.54 mm): Symbol J3 Pin 3 [Pin_3, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(170.92 mm, 91.08 mm): Symbol J3 Pin 4 [Pin_4, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(190.19 mm, 98.00 mm): Symbol D1 Pin 1 [K, Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 30.19 mm): Symbol R8 Pin 1 [Passive, Line]
+
+[pin_not_connected]: Pin not connected
+    ; error
+    @(232.00 mm, 37.81 mm): Symbol R8 Pin 2 [Passive, Line]

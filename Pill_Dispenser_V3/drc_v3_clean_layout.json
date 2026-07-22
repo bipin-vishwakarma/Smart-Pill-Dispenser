@@ -1,0 +1,126 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T14:11:24+0530",
+    "kicad_version": "9.0.7",
+    "schematic_parity": [],
+    "source": "Pill_Dispenser_V3.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 30.0
+                    },
+                    "uuid": "3908ae32-fe24-417a-9cb6-bd34ae49b46b"
+                },
+                {
+                    "description": "Footprint J3",
+                    "pos": {
+                        "x": 73.0,
+                        "y": 38.0
+                    },
+                    "uuid": "b97fc621-f81e-4cc7-ac05-2df46acd3a30"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint J2",
+                    "pos": {
+                        "x": 73.0,
+                        "y": 50.0
+                    },
+                    "uuid": "51a0a918-f2cc-480d-a659-aa2daeeec692"
+                },
+                {
+                    "description": "Footprint J4",
+                    "pos": {
+                        "x": 70.0,
+                        "y": 56.0
+                    },
+                    "uuid": "8685425b-7946-4635-8396-438e216bd332"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint J4",
+                    "pos": {
+                        "x": 70.0,
+                        "y": 56.0
+                    },
+                    "uuid": "8685425b-7946-4635-8396-438e216bd332"
+                },
+                {
+                    "description": "Footprint SW1",
+                    "pos": {
+                        "x": 64.0,
+                        "y": 54.0
+                    },
+                    "uuid": "b24a3cc3-029d-468a-8fe6-7c6744065cd7"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint Q1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 44.0
+                    },
+                    "uuid": "c44a0fed-c346-4850-a0e7-f6cb391121b4"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 22.0,
+                        "y": 40.0
+                    },
+                    "uuid": "f56b55d5-966b-410c-8a04-d4c6ca51bf2d"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 0.0
+                    },
+                    "uuid": "7fdafb0b-1f33-4b7e-a9c3-d5a069ae43d2"
+                },
+                {
+                    "description": "PTH pad 4 [<no net>] of J3",
+                    "pos": {
+                        "x": 80.62,
+                        "y": 38.0
+                    },
+                    "uuid": "7ddef578-ece0-47ed-9885-14083ab086f9"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        }
+    ]
+}

@@ -1,0 +1,354 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T12:44:40+0530",
+    "kicad_version": "9.0.7",
+    "schematic_parity": [],
+    "source": "Pill_Dispenser_V3.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of C5 on F.Cu",
+                    "pos": {
+                        "x": 39.225,
+                        "y": 18.0
+                    },
+                    "uuid": "525d1649-483c-4f4f-9267-a7b8b6c578ee"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of C5 on F.Cu",
+                    "pos": {
+                        "x": 40.775,
+                        "y": 18.0
+                    },
+                    "uuid": "49e30567-8585-4cd6-b353-26dc392969ca"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint C5",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 18.0
+                    },
+                    "uuid": "b0a79427-47aa-41d1-bffa-d89272890c65"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R6 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 18.0
+                    },
+                    "uuid": "1908eb4a-b145-4778-ac1d-a4862dba32bf"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R6 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 18.0
+                    },
+                    "uuid": "d809b23e-5d36-4410-8367-c8128c49ad4b"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 18.0
+                    },
+                    "uuid": "df75c59d-a4f4-43aa-b299-1356d0fedeea"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 54.0
+                    },
+                    "uuid": "dce98131-b2c9-424d-a8e3-ba4cec968a7e"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 53.25
+                    },
+                    "uuid": "45da444a-8100-4517-b98f-8f5ec2769bcb"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 54.0
+                    },
+                    "uuid": "dce98131-b2c9-424d-a8e3-ba4cec968a7e"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 53.25
+                    },
+                    "uuid": "45da444a-8100-4517-b98f-8f5ec2769bcb"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1572 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 3 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 59.08
+                    },
+                    "uuid": "cd961871-29e6-47c0-9c88-9af9c8236e66"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 59.25
+                    },
+                    "uuid": "c61f900e-01be-4ba4-b090-8384d95d41d2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1572 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 3 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 59.08
+                    },
+                    "uuid": "cd961871-29e6-47c0-9c88-9af9c8236e66"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 59.25
+                    },
+                    "uuid": "c61f900e-01be-4ba4-b090-8384d95d41d2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "1ef84fb2-88a8-40e9-9eba-0e4770935473"
+                },
+                {
+                    "description": "Footprint R13",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 38.0
+                    },
+                    "uuid": "62356614-51bd-4f27-afdd-ceecae4da135"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 54.0
+                    },
+                    "uuid": "31f0775a-8e52-41f2-a225-7730687a58e2"
+                },
+                {
+                    "description": "Footprint SW4",
+                    "pos": {
+                        "x": 16.0,
+                        "y": 55.0
+                    },
+                    "uuid": "36788767-57d7-4f73-a645-2b2850d1cd5f"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint C5",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 18.0
+                    },
+                    "uuid": "b0a79427-47aa-41d1-bffa-d89272890c65"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 30.0
+                    },
+                    "uuid": "b22832f5-3e30-47cc-8806-762c9001fe58"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 62.0,
+                        "y": 30.0
+                    },
+                    "uuid": "b22832f5-3e30-47cc-8806-762c9001fe58"
+                },
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 18.0
+                    },
+                    "uuid": "df75c59d-a4f4-43aa-b299-1356d0fedeea"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0700 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "f2a7885c-a02b-4233-b8bc-8389691ba810"
+                },
+                {
+                    "description": "PTH pad 3 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 59.08
+                    },
+                    "uuid": "cd961871-29e6-47c0-9c88-9af9c8236e66"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "f2a7885c-a02b-4233-b8bc-8389691ba810"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 14.0,
+                        "y": 59.25
+                    },
+                    "uuid": "3a62371e-d688-4e2f-8c90-df8905abee4c"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "f2a7885c-a02b-4233-b8bc-8389691ba810"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 59.25
+                    },
+                    "uuid": "c61f900e-01be-4ba4-b090-8384d95d41d2"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        }
+    ]
+}

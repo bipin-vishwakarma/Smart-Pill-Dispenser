@@ -1,0 +1,14 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T04:42:37+0530",
+    "kicad_version": "9.0.7",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+            "violations": []
+        }
+    ],
+    "source": "Pill_Dispenser_V3.kicad_sch"
+}

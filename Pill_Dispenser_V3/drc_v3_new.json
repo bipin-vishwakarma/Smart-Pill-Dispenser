@@ -1,0 +1,1978 @@
+{
+    "$schema": "https://schemas.kicad.org/drc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-03-15T12:20:57+0530",
+    "kicad_version": "9.0.7",
+    "schematic_parity": [],
+    "source": "Pill_Dispenser_V3.kicad_pcb",
+    "unconnected_items": [],
+    "violations": [
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of C5 on F.Cu",
+                    "pos": {
+                        "x": 39.225,
+                        "y": 18.0
+                    },
+                    "uuid": "b16af6fa-fef7-41db-9ff9-cc5de6ba2b89"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of C5 on F.Cu",
+                    "pos": {
+                        "x": 40.775,
+                        "y": 18.0
+                    },
+                    "uuid": "9248ec1a-65f3-487c-8d1a-bde5e83df752"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint C5",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 18.0
+                    },
+                    "uuid": "07eb2d20-f7a3-490d-a4c9-c77c1d870211"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of D4 on F.Cu",
+                    "pos": {
+                        "x": 33.2125,
+                        "y": 16.0
+                    },
+                    "uuid": "fec243b4-cd44-474d-825e-ee5789bbcee7"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D4 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 16.0
+                    },
+                    "uuid": "a702c607-1ef4-4129-92bb-28deff5762eb"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D4",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 16.0
+                    },
+                    "uuid": "4864b19f-ff78-4637-9d65-d8efc83e8e48"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of D5 on F.Cu",
+                    "pos": {
+                        "x": 33.2125,
+                        "y": 22.0
+                    },
+                    "uuid": "9da5a72f-2899-42f0-89de-e030bb67cb3a"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D5 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 22.0
+                    },
+                    "uuid": "5240ce0c-91f8-44e0-a228-cedf3387c7e8"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D5",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 22.0
+                    },
+                    "uuid": "5df9240e-0d0a-4851-a820-df2b9a938472"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R6 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 18.0
+                    },
+                    "uuid": "ad515ea6-9474-4bf5-8b02-7aa6bdb631a0"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R6 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 18.0
+                    },
+                    "uuid": "fa8d17de-7237-4835-b150-8980ad3a7400"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 18.0
+                    },
+                    "uuid": "69dd7b3e-c793-4dbc-a340-83fad387258e"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of D1 on F.Cu",
+                    "pos": {
+                        "x": 33.2125,
+                        "y": 10.0
+                    },
+                    "uuid": "5b5305ac-0fda-4a77-9bb9-e054e45486cd"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of D1 on F.Cu",
+                    "pos": {
+                        "x": 34.7875,
+                        "y": 10.0
+                    },
+                    "uuid": "a909fa17-e599-4ba1-bb4f-13063cb3e206"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items not allowed (keepout area)",
+            "items": [
+                {
+                    "description": "Footprint D1",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 10.0
+                    },
+                    "uuid": "c8457e1f-252b-4af0-9683-c7d6b86f48ae"
+                }
+            ],
+            "severity": "error",
+            "type": "items_not_allowed"
+        },
+        {
+            "description": "Items shorting two nets (nets GND and VBUS)",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets D- and VBUS)",
+            "items": [
+                {
+                    "description": "Track [D-] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "2698e0a9-aaa3-4c07-9f2d-7734b241baf4"
+                },
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets D+ and VBUS)",
+            "items": [
+                {
+                    "description": "Track [D+] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "6f7e43e8-2f52-4b29-ac27-3d0d2be784fb"
+                },
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Items shorting two nets (nets D+ and D-)",
+            "items": [
+                {
+                    "description": "Track [D+] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "6f7e43e8-2f52-4b29-ac27-3d0d2be784fb"
+                },
+                {
+                    "description": "Pad A7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "7444183d-1b9d-468b-a72a-3ce4d5c61235"
+                }
+            ],
+            "severity": "error",
+            "type": "shorting_items"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 30.0
+                    },
+                    "uuid": "f9d47eda-eb10-4b05-ae46-f92467ae18bc"
+                },
+                {
+                    "description": "Pad 5 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 29.82
+                    },
+                    "uuid": "11e1b415-eaee-4858-b935-0641d19d318d"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1858 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 30.0
+                    },
+                    "uuid": "f9d47eda-eb10-4b05-ae46-f92467ae18bc"
+                },
+                {
+                    "description": "Pad 6 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 31.09
+                    },
+                    "uuid": "7b282b02-c8ed-4788-8a77-07d71cd290da"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 30.0
+                    },
+                    "uuid": "9a0449a9-6899-4d99-b178-f996d59705da"
+                },
+                {
+                    "description": "Pad 5 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 29.82
+                    },
+                    "uuid": "11e1b415-eaee-4858-b935-0641d19d318d"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1650 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 30.0
+                    },
+                    "uuid": "9a0449a9-6899-4d99-b178-f996d59705da"
+                },
+                {
+                    "description": "Pad 6 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 31.09
+                    },
+                    "uuid": "7b282b02-c8ed-4788-8a77-07d71cd290da"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1953 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 36.0
+                    },
+                    "uuid": "9a9b00a1-419a-447e-86d7-624d84ea32aa"
+                },
+                {
+                    "description": "Pad 9 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 34.9
+                    },
+                    "uuid": "dc64fc7f-1da0-4113-a67f-b43ce96ca545"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 36.0
+                    },
+                    "uuid": "9a9b00a1-419a-447e-86d7-624d84ea32aa"
+                },
+                {
+                    "description": "Pad 10 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 36.17
+                    },
+                    "uuid": "1656edb4-3018-4025-8bd0-35bb5e8806e2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1750 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 36.0
+                    },
+                    "uuid": "fa2fd1e4-8b76-4149-9dbe-7d0f67f8818f"
+                },
+                {
+                    "description": "Pad 9 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 34.9
+                    },
+                    "uuid": "dc64fc7f-1da0-4113-a67f-b43ce96ca545"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 36.0
+                    },
+                    "uuid": "fa2fd1e4-8b76-4149-9dbe-7d0f67f8818f"
+                },
+                {
+                    "description": "Pad 10 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 36.17
+                    },
+                    "uuid": "1656edb4-3018-4025-8bd0-35bb5e8806e2"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R7 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 24.0
+                    },
+                    "uuid": "220c34fc-c481-4e53-bb72-69d2f2820ce7"
+                },
+                {
+                    "description": "Pad 1 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 24.74
+                    },
+                    "uuid": "e8118c6c-066b-4008-80e4-e7d09d2dd970"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R7 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 24.0
+                    },
+                    "uuid": "b385703a-39b2-41f4-9968-4acdca5aa7e8"
+                },
+                {
+                    "description": "Pad 1 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 24.74
+                    },
+                    "uuid": "e8118c6c-066b-4008-80e4-e7d09d2dd970"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)",
+            "items": [
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 53.25
+                    },
+                    "uuid": "3b2a2f42-95e7-469d-8869-241a6161df92"
+                },
+                {
+                    "description": "PTH pad 1 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 54.0
+                    },
+                    "uuid": "940cbf9b-f5ca-45ac-a50d-017175820402"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1572 mm)",
+            "items": [
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 59.25
+                    },
+                    "uuid": "e47f759d-df2f-45ee-94c2-3b9746661c36"
+                },
+                {
+                    "description": "PTH pad 3 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 59.08
+                    },
+                    "uuid": "9bed0918-3d3b-498c-976e-880744498fef"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R13 on F.Cu",
+                    "pos": {
+                        "x": 33.175,
+                        "y": 38.0
+                    },
+                    "uuid": "79f473bc-60c5-47d6-8dba-1b5d6ad6d79d"
+                },
+                {
+                    "description": "PTH pad 2 [<no net>] of BZ1",
+                    "pos": {
+                        "x": 33.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cbea9552-3860-4ab0-bb14-94e79469ba12"
+                }
+            ],
+            "severity": "error",
+            "type": "clearance"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint C5",
+                    "pos": {
+                        "x": 40.0,
+                        "y": 18.0
+                    },
+                    "uuid": "07eb2d20-f7a3-490d-a4c9-c77c1d870211"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R9",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 30.0
+                    },
+                    "uuid": "0951bb10-64ec-4e49-ace8-a742f1171e3d"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R10",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 36.0
+                    },
+                    "uuid": "38ba34b0-bc49-4533-8546-b5281b43707c"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R7",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 24.0
+                    },
+                    "uuid": "42a9e09c-6c55-456b-8db7-8b5b1e63ef44"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint D4",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 16.0
+                    },
+                    "uuid": "4864b19f-ff78-4637-9d65-d8efc83e8e48"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint SW4",
+                    "pos": {
+                        "x": 16.0,
+                        "y": 55.0
+                    },
+                    "uuid": "5cf15af4-ea04-47c2-9ee5-0c6cd5c47ad9"
+                },
+                {
+                    "description": "Footprint J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 54.0
+                    },
+                    "uuid": "af583ba1-33a2-4b10-b0f1-6e935e011ee4"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint D5",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 22.0
+                    },
+                    "uuid": "5df9240e-0d0a-4851-a820-df2b9a938472"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint Q1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 44.0
+                    },
+                    "uuid": "620e4c68-be72-48fd-842d-3a354c1f632f"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cde04763-9342-4af9-96ed-47c47dcc2d82"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R6",
+                    "pos": {
+                        "x": 46.0,
+                        "y": 18.0
+                    },
+                    "uuid": "69dd7b3e-c793-4dbc-a340-83fad387258e"
+                },
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint U1",
+                    "pos": {
+                        "x": 55.0,
+                        "y": 30.0
+                    },
+                    "uuid": "70f71f70-e7ff-496e-b34e-0e49a319178c"
+                },
+                {
+                    "description": "Footprint D1",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 10.0
+                    },
+                    "uuid": "c8457e1f-252b-4af0-9683-c7d6b86f48ae"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R4",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 44.0
+                    },
+                    "uuid": "7fc2a48c-5ef0-46b8-90f8-3e000717ddac"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cde04763-9342-4af9-96ed-47c47dcc2d82"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R13",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 38.0
+                    },
+                    "uuid": "83a4949e-c7e2-43bb-b764-61e2735c09ea"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cde04763-9342-4af9-96ed-47c47dcc2d82"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R14",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 42.0
+                    },
+                    "uuid": "98148efe-e195-4050-9601-310f91839501"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cde04763-9342-4af9-96ed-47c47dcc2d82"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Courtyards overlap",
+            "items": [
+                {
+                    "description": "Footprint R2",
+                    "pos": {
+                        "x": 34.0,
+                        "y": 34.0
+                    },
+                    "uuid": "a85a6144-db04-48b1-88bd-cc8b68e66484"
+                },
+                {
+                    "description": "Footprint BZ1",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cde04763-9342-4af9-96ed-47c47dcc2d82"
+                }
+            ],
+            "severity": "error",
+            "type": "courtyards_overlap"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "bad5869e-88d9-4b97-a141-28be290cbac5"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 14.0,
+                        "y": 59.25
+                    },
+                    "uuid": "48dd9d1a-6463-4ee7-9ce0-6a87386c6c29"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0000 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "bad5869e-88d9-4b97-a141-28be290cbac5"
+                },
+                {
+                    "description": "PTH pad [<no net>] of SW4",
+                    "pos": {
+                        "x": 26.0,
+                        "y": 59.25
+                    },
+                    "uuid": "e47f759d-df2f-45ee-94c2-3b9746661c36"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        },
+        {
+            "description": "Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.0700 mm)",
+            "items": [
+                {
+                    "description": "Segment on Edge.Cuts",
+                    "pos": {
+                        "x": 80.0,
+                        "y": 60.0
+                    },
+                    "uuid": "bad5869e-88d9-4b97-a141-28be290cbac5"
+                },
+                {
+                    "description": "PTH pad 3 [<no net>] of J3",
+                    "pos": {
+                        "x": 28.0,
+                        "y": 59.08
+                    },
+                    "uuid": "9bed0918-3d3b-498c-976e-880744498fef"
+                }
+            ],
+            "severity": "error",
+            "type": "copper_edge_clearance"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 5.3,
+                        "y": 20.8
+                    },
+                    "uuid": "cbf1de76-37ef-4fc9-b937-3d2e67d15698"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 5.3,
+                        "y": 22.0
+                    },
+                    "uuid": "e9a491ad-3425-4f1b-8ca2-d6a04a47e6a5"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 5.3,
+                        "y": 23.2
+                    },
+                    "uuid": "e27006a0-4919-4be0-962b-e98f7fda66f6"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 6.7,
+                        "y": 20.8
+                    },
+                    "uuid": "c2d66818-721a-45e4-89ed-8bb572aca83a"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 6.7,
+                        "y": 22.0
+                    },
+                    "uuid": "de645776-3ef7-410b-aa9f-f5eca73ba32f"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 9 [<no net>] of U3",
+                    "pos": {
+                        "x": 6.7,
+                        "y": 23.2
+                    },
+                    "uuid": "d1ea6d46-85f5-4228-a47e-54e4160a10b4"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 52.1,
+                        "y": 31.76
+                    },
+                    "uuid": "d873c7a9-dda9-40ba-bb29-00249e3440a2"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 52.1,
+                        "y": 33.16
+                    },
+                    "uuid": "8c7f2da6-b1a8-4b14-84ad-1394cb8538cf"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 52.8,
+                        "y": 31.06
+                    },
+                    "uuid": "74a4c839-623a-4f75-b7ac-42bb1941f961"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 52.8,
+                        "y": 32.46
+                    },
+                    "uuid": "c0a39553-80d2-490b-aa71-8fb67405f2b8"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 52.8,
+                        "y": 33.86
+                    },
+                    "uuid": "4ac34eee-53f0-4ba2-ad6f-4dd1b8a1c166"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 53.5,
+                        "y": 31.76
+                    },
+                    "uuid": "dec686cf-e7aa-4fda-bf38-7b0cb1699e23"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 53.5,
+                        "y": 33.16
+                    },
+                    "uuid": "718aab1a-9056-4833-aa9b-063d9676afb1"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 54.2,
+                        "y": 31.06
+                    },
+                    "uuid": "38413375-5f88-4644-84d0-d985a4204b20"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 54.2,
+                        "y": 32.46
+                    },
+                    "uuid": "a84e5fcc-df1c-4c4f-8b9a-bab8b5aaa04a"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 54.2,
+                        "y": 33.86
+                    },
+                    "uuid": "6479ca39-584d-49bb-98d3-7fd2c3915d8c"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 54.9,
+                        "y": 31.76
+                    },
+                    "uuid": "a531052d-da19-455d-a0ba-4c38c42953af"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Hole size out of range (board setup constraints min hole 0.3000 mm; actual 0.2000 mm)",
+            "items": [
+                {
+                    "description": "PTH pad 41 [<no net>] of U1",
+                    "pos": {
+                        "x": 54.9,
+                        "y": 33.16
+                    },
+                    "uuid": "2ff271ea-6f61-4b63-abe8-621de1ebf0fb"
+                }
+            ],
+            "severity": "error",
+            "type": "drill_out_of_range"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A9 [VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 10.45
+                    },
+                    "uuid": "6f261160-37d8-4950-a6be-7ed943293a77"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A6 [D+] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "5c7b190c-9320-40f0-a16e-ebf67c1a2f47"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "7444183d-1b9d-468b-a72a-3ce4d5c61235"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A8 [<no net>] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 9.25
+                    },
+                    "uuid": "7da47e57-f665-44a4-ac27-23f2af2da45a"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B5 [CC2] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 9.75
+                    },
+                    "uuid": "dba77c2a-9751-4f30-8591-c3924f2e228d"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B6 [D+] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.75
+                    },
+                    "uuid": "078fb9a5-830f-4e1b-a8e4-823e46a766b8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A4 [VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "1df6f7e6-a364-4801-a005-ee0fb10aafd9"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad A5 [CC1] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 6.75
+                    },
+                    "uuid": "ad9125ed-7503-4293-b79a-e63260e3cab2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.25
+                    },
+                    "uuid": "2af292fd-7b95-4586-bcb9-f7ae4346282f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B8 [<no net>] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 6.25
+                    },
+                    "uuid": "a2d6bb13-ba5b-417e-a0de-4a08ca0edce4"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B9 [VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "c7ea43ed-6693-47ca-a532-c7f1457d7e27"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [GND] on F.Cu, length 6.5000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 4.75
+                    },
+                    "uuid": "78b8644f-6ca1-4331-84f6-bfc28a45f053"
+                },
+                {
+                    "description": "Pad B4 [VBUS] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 10.45
+                    },
+                    "uuid": "21f53883-ddb6-4b84-a3ac-bcdc6a8c74ff"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad A6 [D+] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "5c7b190c-9320-40f0-a16e-ebf67c1a2f47"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad A7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "7444183d-1b9d-468b-a72a-3ce4d5c61235"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad A8 [<no net>] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 9.25
+                    },
+                    "uuid": "7da47e57-f665-44a4-ac27-23f2af2da45a"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad B5 [CC2] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 9.75
+                    },
+                    "uuid": "dba77c2a-9751-4f30-8591-c3924f2e228d"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad B6 [D+] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.75
+                    },
+                    "uuid": "078fb9a5-830f-4e1b-a8e4-823e46a766b8"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad A5 [CC1] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 6.75
+                    },
+                    "uuid": "ad9125ed-7503-4293-b79a-e63260e3cab2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad B7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.25
+                    },
+                    "uuid": "2af292fd-7b95-4586-bcb9-f7ae4346282f"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [VBUS] on F.Cu, length 4.9000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 5.55
+                    },
+                    "uuid": "84e3ba63-e4a4-4afc-8a4a-f850b2b6f9ff"
+                },
+                {
+                    "description": "Pad B8 [<no net>] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 6.25
+                    },
+                    "uuid": "a2d6bb13-ba5b-417e-a0de-4a08ca0edce4"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [D+] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "6f7e43e8-2f52-4b29-ac27-3d0d2be784fb"
+                },
+                {
+                    "description": "Pad A7 [D-] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "7444183d-1b9d-468b-a72a-3ce4d5c61235"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Track [D-] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "2698e0a9-aaa3-4c07-9f2d-7734b241baf4"
+                },
+                {
+                    "description": "Pad A6 [D+] of J1 on F.Cu",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "5c7b190c-9320-40f0-a16e-ebf67c1a2f47"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 30.0
+                    },
+                    "uuid": "f9d47eda-eb10-4b05-ae46-f92467ae18bc"
+                },
+                {
+                    "description": "Pad 5 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 29.82
+                    },
+                    "uuid": "11e1b415-eaee-4858-b935-0641d19d318d"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R9 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 30.0
+                    },
+                    "uuid": "9a0449a9-6899-4d99-b178-f996d59705da"
+                },
+                {
+                    "description": "Pad 5 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 29.82
+                    },
+                    "uuid": "11e1b415-eaee-4858-b935-0641d19d318d"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 36.0
+                    },
+                    "uuid": "9a9b00a1-419a-447e-86d7-624d84ea32aa"
+                },
+                {
+                    "description": "Pad 10 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 36.17
+                    },
+                    "uuid": "1656edb4-3018-4025-8bd0-35bb5e8806e2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R10 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 36.0
+                    },
+                    "uuid": "fa2fd1e4-8b76-4149-9dbe-7d0f67f8818f"
+                },
+                {
+                    "description": "Pad 10 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 36.17
+                    },
+                    "uuid": "1656edb4-3018-4025-8bd0-35bb5e8806e2"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R7 on F.Cu",
+                    "pos": {
+                        "x": 45.175,
+                        "y": 24.0
+                    },
+                    "uuid": "220c34fc-c481-4e53-bb72-69d2f2820ce7"
+                },
+                {
+                    "description": "Pad 1 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 24.74
+                    },
+                    "uuid": "e8118c6c-066b-4008-80e4-e7d09d2dd970"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 2 [<no net>] of R7 on F.Cu",
+                    "pos": {
+                        "x": 46.825,
+                        "y": 24.0
+                    },
+                    "uuid": "b385703a-39b2-41f4-9968-4acdca5aa7e8"
+                },
+                {
+                    "description": "Pad 1 [<no net>] of U1 on F.Cu",
+                    "pos": {
+                        "x": 46.25,
+                        "y": 24.74
+                    },
+                    "uuid": "e8118c6c-066b-4008-80e4-e7d09d2dd970"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Front solder mask aperture bridges items with different nets",
+            "items": [
+                {
+                    "description": "Pad 1 [<no net>] of R13 on F.Cu",
+                    "pos": {
+                        "x": 33.175,
+                        "y": 38.0
+                    },
+                    "uuid": "79f473bc-60c5-47d6-8dba-1b5d6ad6d79d"
+                },
+                {
+                    "description": "PTH pad 2 [<no net>] of BZ1",
+                    "pos": {
+                        "x": 33.0,
+                        "y": 38.0
+                    },
+                    "uuid": "cbea9552-3860-4ab0-bb14-94e79469ba12"
+                }
+            ],
+            "severity": "error",
+            "type": "solder_mask_bridge"
+        },
+        {
+            "description": "Differential pair gap out of range (netclass 'Default' (diff pair) minimum gap 0.0000 mm; actual -0.2000 mm)",
+            "items": [
+                {
+                    "description": "Track [D+] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 7.75
+                    },
+                    "uuid": "6f7e43e8-2f52-4b29-ac27-3d0d2be784fb"
+                },
+                {
+                    "description": "Track [D-] on F.Cu, length 1.0000 mm",
+                    "pos": {
+                        "x": 10.045,
+                        "y": 8.25
+                    },
+                    "uuid": "2698e0a9-aaa3-4c07-9f2d-7734b241baf4"
+                }
+            ],
+            "severity": "error",
+            "type": "diff_pair_gap_out_of_range"
+        }
+    ]
+}

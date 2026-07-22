@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100n","C_0603_1608Metric",1.377953,-1.181102,0.000000,top
+"D1","PWR_LED","LED_0603_1608Metric",1.968504,-0.787402,0.000000,top
+"J1","BAT_IN","PinHeader_1x02_P2.54mm_Vertical",0.787402,-0.787402,0.000000,top
+"R1","330","R_0603_1608Metric",1.377953,-0.787402,0.000000,top
